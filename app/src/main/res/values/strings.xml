@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="lower">Lower</string>
+    <string name="correct">Correct</string>
+    <string name="higher">Higher</string>
+</resources>
